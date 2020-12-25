@@ -1,0 +1,17 @@
+Oh mon Dieu! J'ai appris beaucoup aujourd'hui!
+Haha lemme stop with the francais before I start overthinking my words.
+But today was really a big step for me especially after coming from the unproductivity that was yesterday.
+I hunkered down and watched helpful tutorial videos about 
+web scraping with beautifulsoup4, natural language processing, and regular expressions.
+I also got rid of a lot of my phone's Google Chrome tabs which is def a plus!
+I learned those to improve as a Data Scientist ofc,
+but I also thought regex and web scraping would be pretty useful for my current internship project.
+I think a major part of me making this kind of progress was realizing
+that I shouldn't allow myself to feel overwhelmed 
+by all of the things that I feel I should know as a Data Scientist.
+There's a lot I'll have to learn and I'll never stop learning,
+which means I have a good amount of time to keep learning and growing.
+I don't have to be a seasoned Data Scientist just because 
+that's what it seems like Data Science jobs require.
+I can just be unapologetically me rough around the edges and all.
+Soon enough I'll be the polished gemstone I want myself to be.
