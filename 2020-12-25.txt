@@ -1,1 +1,15 @@
-Ahh　
+Ahh　今疲れています！
+Haha don't worry, I'm not gonna go off in Japanese either.
+Although I was considering making two more jupyter notebooks like this one
+so that I can practice writing
+in French and Japanese cuz I def need the practice.
+But yeah another productive day under my belt!
+I guess I should've been taking it easy since it's Christmas and all
+but why stop when I have nothing better to do.
+Today was actually great for me because I got to practice web scraping with BeautifulSoup
+and I must say it was much easier than I thought it would be.
+I made a good amount of progress in learning BeautifulSoup.
+I felt pretty proud of myself because I was able to make a pretty decent dataset with it.
+My next steps are using natural language processing to help build a recommender system.
+Two areas of data science that I'm a verified noob but I'll manage something eventually.
+何とかなる！
