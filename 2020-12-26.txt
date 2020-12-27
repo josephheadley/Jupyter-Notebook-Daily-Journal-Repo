@@ -1,0 +1,13 @@
+Uhh I guess I had some technical difficulties with Jupyter notebook just now.
+Idk why I need to keep pip installing modules I should already have but I digress.
+Today wasn't too bad. I wasn't as productive as I was for the past couple of days
+but that's fine cuz I gave myself time to relax and have a bit of fun so it's all good.
+I did, however manage to pick up from where I left off with Jose Portilla's DS Udemy course.
+I can't say that I remember everything that I learned before I took a hiatus on it 
+but that's what review is for right?
+I learned more about Recommender Systems and Natural Language Processing
+and NLP seems like a pretty cool concept in spite of how relatively abstract it seems.
+I'm still thinking about how to apply what I learned to the anime DS project 
+that I'm thinking about and I will say that I think it'll be a cool project to explore 
+with these concepts in mind.
+I guess going in to this I would consider this my 3rd day of 66 days of Data Science if I was ever really apart of it to begin with 
