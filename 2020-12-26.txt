@@ -10,4 +10,4 @@ and NLP seems like a pretty cool concept in spite of how relatively abstract it 
 I'm still thinking about how to apply what I learned to the anime DS project 
 that I'm thinking about and I will say that I think it'll be a cool project to explore 
 with these concepts in mind.
-I guess going in to this I would consider this my 3rd day of 66 days of Data Science if I was ever really apart of it to begin with 
+I guess going in to this I would consider this my 3rd day of 66 days of Data Science if I was ever really apart of it to begin with...
