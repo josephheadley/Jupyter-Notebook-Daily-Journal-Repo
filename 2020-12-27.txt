@@ -1,0 +1,16 @@
+Hello again! Back for another installment of "On That Grind!" Jk jk.
+Today was another pretty good day for me.
+I was able to organize my room to what I would consider almost perfectly organized.
+The TV has a nice little porch to rest on that's higher than air mattress level so that's good!
+As for my 4th day of Data Science, I watched a bit more of Jose Portilla's videos on Deep Learning.
+I finally finished the theory videos and started watching videos that deal with actual code,
+but the first deep learning coding video felt more like ML review than anything else.
+I guess things will start to ramp in later videos then.
+Other than that I watched a couple of tutorial videos on cython as way to improve performance speed.
+I think it would be really cool to be able to apply that to my future projects 
+but I think I'm still a little too wet behind the ears to try it yet.
+Although thinking back on the deep learning videos that I watched,
+I got a few ideas on directions to take my anime Data Science project 
+that I wrote down on, you guessed it, a flashcard
+so stay tuned for how that pans out.
+This is Joey signing off! 
