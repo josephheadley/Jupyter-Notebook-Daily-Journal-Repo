@@ -13,4 +13,4 @@ Although thinking back on the deep learning videos that I watched,
 I got a few ideas on directions to take my anime Data Science project 
 that I wrote down on, you guessed it, a flashcard
 so stay tuned for how that pans out.
-This is Joey signing off! 
+This is Joey signing off!s 
